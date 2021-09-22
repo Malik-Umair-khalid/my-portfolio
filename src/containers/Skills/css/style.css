@@ -1,0 +1,6 @@
+.cards_div{
+    margin-left: 100px !important;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
